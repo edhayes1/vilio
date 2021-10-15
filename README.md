@@ -23,7 +23,7 @@
 </h3>
 
 ## Edward Hayes Changes
-Modified dataset to accept custom pre-training data formats
+Modified dataset classes to accept custom pre-training data formats
 
 ## Updates
 
