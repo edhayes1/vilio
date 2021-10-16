@@ -22,6 +22,9 @@
 <p> State-of-the-art Visio-Linguistic Models 🥶
 </h3>
 
+## Edward Hayes Changes
+Modified dataset classes to accept custom pre-training data formats
+
 ## Updates
 
 ### 06/2021 - Hateful Memes CSV Files
